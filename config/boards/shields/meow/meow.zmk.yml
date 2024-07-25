@@ -1,0 +1,8 @@
+file_format: "1"
+id: meow
+name: meow
+type: shield
+url: https://github.com/JohnathonHutt/
+requires: [pro_micro]
+features:
+  - keys
